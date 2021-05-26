@@ -1,0 +1,6 @@
+﻿  char_array_example.cpp
+C:\Users\270071513\source\repos\char_array_example\char_array_example\char_array_example.cpp(22,17): error C2065: 'i': undeclared identifier
+C:\Users\270071513\source\repos\char_array_example\char_array_example\char_array_example.cpp(22,38): error C2065: 'i': undeclared identifier
+C:\Users\270071513\source\repos\char_array_example\char_array_example\char_array_example.cpp(22,59): error C2065: 'i': undeclared identifier
+C:\Users\270071513\source\repos\char_array_example\char_array_example\char_array_example.cpp(22,80): error C2065: 'i': undeclared identifier
+C:\Users\270071513\source\repos\char_array_example\char_array_example\char_array_example.cpp(22,101): error C2065: 'i': undeclared identifier
